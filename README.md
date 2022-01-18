@@ -1,5 +1,6 @@
 Pig Game
 ====
+![1](https://user-images.githubusercontent.com/65595901/149911423-48ebdd86-ef60-428e-b574-8cc7084c2552.png)
 
 ## Demo
 https://kazunoko1606.github.io/pig_game/
